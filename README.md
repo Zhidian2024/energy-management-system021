@@ -20,8 +20,6 @@
 
 ![001](https://github.com/user-attachments/assets/7d974e5e-1948-4c65-bd37-ee6d633738fd)
 
-![0002](https://github.com/user-attachments/assets/2071096a-a672-403e-989a-99183efef630)
-
 
 
 五、软件截图
