@@ -1,18 +1,23 @@
 # zhitan02
+
 智电云/基于SpringCloud的能源管理系统-能源管理平台源码-能源在线监测平台-双碳平台源码-SpringCloud全家桶-能管管理系统源码
 
 一、介绍
+
 基于SpringCloud的能管管理系统-能源管理平台源码-能源在线监测平台-双碳平台源码-SpringCloud全家桶-能管管理系统源码
 
 二、软件架构
+
 ![01软件架构](https://github.com/user-attachments/assets/8841976f-1f27-4f78-a87f-36b4d39993a4)
 
 
 二、功能介绍
+
 ![02软件功能](https://github.com/user-attachments/assets/4fd66cfa-6304-452f-8a2d-fadc295cd308)
 
 
 三、数字大屏展示
+
 ![2M以内文件](https://github.com/user-attachments/assets/75c9a32e-06fc-4f1a-b347-806293a8e3bc)
 
 
@@ -45,7 +50,9 @@
 ![20](https://github.com/user-attachments/assets/05ba9c46-4481-4e1c-87ef-fe0b23c1eea1)
 
 ![21](https://github.com/user-attachments/assets/fb56be50-af20-4622-ad26-dd2326468512)
+
 #### 有兴趣，加V，备注：来源和项目名称
+
 ![lianxi](https://github.com/user-attachments/assets/115195e5-80c2-4257-8135-c35e9da2b1c4)
 
 
